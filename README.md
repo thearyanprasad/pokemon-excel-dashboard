@@ -41,7 +41,7 @@ The project focuses on:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview_excel.png)
 
 ---
 
